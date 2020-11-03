@@ -1,5 +1,8 @@
 /* Text Selection start */
 
+a {
+  color: #4550e6;
+}
 ::-moz-selection {
   /* Code for Firefox */
   color: black;
