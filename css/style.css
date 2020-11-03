@@ -3,6 +3,11 @@
 a {
   color: #4550e6;
 }
+
+/* Solid border */
+hr.solid {
+  border-top: 1px solid #bbb;
+}
 ::-moz-selection {
   /* Code for Firefox */
   color: black;
